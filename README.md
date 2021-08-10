@@ -1,5 +1,13 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LidiaCana.LidiaCana)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LidiaCana&show_icons=true&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LidiaCana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LidiaCana&layout=compact&theme=radical" />
+</a>
+
+
 
 <!--
 **LidiaCana/LidiaCana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
